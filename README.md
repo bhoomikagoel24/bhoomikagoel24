@@ -83,7 +83,3 @@ I'm passionate about building intelligent applications and exploring the interse
 <p align="center">
   <i>⚡ Fun fact: I enjoy turning complex AI & ML concepts into simple, easy-to-understand explanations! 😄</i>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=bhoomikagoel24&icon=0&color=0" alt="Profile Views">
-</p>
