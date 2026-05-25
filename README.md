@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6dfa&height=140&section=header&text=Bhoomika%20Goel&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=AI%2FML%20Engineer%20%C2%B7%20Building%20Systems%20That%20Are%20Reliable%2C%20Interpretable%20%26%20Real&descSize=13&descAlignY=80&descColor=c4b8ff" width="100%"/>
-
-</div>
+![banner](https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/banner.svg)
 
 <br>
-
-<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bhoomika-ai-portfolio.vercel.app/)
 &nbsp;
@@ -14,13 +10,15 @@
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bhoomikagoel24@gmail.com)
 &nbsp;
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=flat&logo=x&logoColor=white)](https://x.com/bhoomikagoel24)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/bhoomikagoel24)
 &nbsp;
-[![Credly](https://img.shields.io/badge/Credly%20Badges-FF6B00?style=flat&logo=credly&logoColor=white)](http://credly.com/users/bhoomika-goel/badges)
-
-</div>
+[![Credly](https://img.shields.io/badge/Credly_Badges-FF6B00?style=flat&logo=credly&logoColor=white)](http://credly.com/users/bhoomika-goel/badges)
 
 <br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bhoomikagoel24&color=7c6dfa&style=flat&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -56,33 +54,12 @@ Agentic AI            →   LangGraph workflows · Multi-agent coordination · L
 
 <br>
 
-### TriMind AI — Advanced RAG Pipeline
-> Modular RAG system with query rewriting, MMR-based retrieval, conversational memory, and a full evaluation layer — grounding scores, confidence scoring, and hallucination detection. Built because retrieval without evaluation is just guessing.
-
-**Tech:** `LangChain` `Pinecone` `Gemini API` `FastAPI` `Vector DB` `Python`
-
-<br>
-
-### FL-XAI — Federated Parkinson's Disease Prediction
-> Privacy-preserving multi-round federated learning across 5 heterogeneous clients for UPDRS severity prediction. Adaptive aggregation with RMSE-based weighting, tree-level Random Forest fusion, and SHAP cross-client interpretability consistency via Kendall Tau correlation.
->
-> **Results:** RMSE 4.51 &nbsp;·&nbsp; R² 0.8162 &nbsp;·&nbsp; Validated via Bootstrap CI + Wilcoxon Signed-Rank Testing
-
-**Tech:** `Scikit-learn` `SHAP` `NumPy` `Pandas` `Bootstrap CI` `Wilcoxon Testing`
-
-<br>
-
-### Sunspot Forecasting — Ensemble Deep Learning
-> Benchmarked 9 deep learning architectures on 250+ years of SILSO sunspot data. Custom CNN+LSTM/GRU hybrids consistently outperformed all baselines across multi-run statistical evaluation with systematic RMSE-based ranking.
-
-**Tech:** `PyTorch` `TensorFlow` `PyTorch Lightning` `Time-Series` `RMSE/MAE/R²`
-
-<br>
-
-### Agentic Research System *(In Progress)*
-> Multi-agent system moving beyond RAG into autonomous research workflows. Planner, retrieval, and summarization agents with cross-document reasoning and state-based LangGraph coordination.
-
-**Tech:** `LangGraph` `LangChain` `Pinecone` `Python`
+| | Project | Description | Tech |
+|:---:|:---|:---|:---|
+| 🔷 | **TriMind AI — RAG Pipeline** | Modular RAG with query rewriting, MMR retrieval, grounding + confidence scoring, and hallucination detection | `LangChain` `Pinecone` `FastAPI` `Gemini API` |
+| 🟡 | **FL-XAI — Parkinson's Prediction** | Federated learning across 5 clients · Adaptive aggregation · SHAP cross-client consistency · **RMSE 4.51 · R² 0.8162** | `Scikit-learn` `SHAP` `Bootstrap CI` `NumPy` |
+| 🟢 | **Sunspot Forecasting** | 9 architectures benchmarked on 250yr SILSO data · CNN+LSTM/GRU hybrids outperformed all baselines | `PyTorch` `TensorFlow` `PyTorch Lightning` |
+| 🔴 | **Agentic Research System** *(building)* | Multi-agent coordination with LangGraph · Planner + retrieval + summarization agents · Cross-document reasoning | `LangGraph` `LangChain` `Pinecone` |
 
 <br>
 
@@ -122,7 +99,7 @@ Agentic AI            →   LangGraph workflows · Multi-agent coordination · L
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=bhoomikagoel24&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&hide=stars&custom_title=GitHub%20Activity" height="155"/>
-&nbsp;
+&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagoel24&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="155"/>
 
 </div>
@@ -133,8 +110,6 @@ Agentic AI            →   LangGraph workflows · Multi-agent coordination · L
 
 <div align="center">
 
-*Building AI systems that are not only intelligent — but measurable, interpretable, and deployable.*
+<sub><i>Building AI systems that are not only intelligent — but measurable, interpretable, and deployable.</i></sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6dfa&height=80&section=footer" width="100%"/>
