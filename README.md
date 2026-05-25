@@ -4,6 +4,10 @@
 
 <br>
 
+**AI/ML Engineer &nbsp;·&nbsp; GenAI Systems &nbsp;·&nbsp; Federated Learning &nbsp;·&nbsp; Explainable AI**
+
+<br>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bhoomika-ai-portfolio.vercel.app/)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomikagoel111)
@@ -13,10 +17,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/bhoomikagoel24)
 &nbsp;
 [![Credly](https://img.shields.io/badge/Credly_Badges-FF6B00?style=flat&logo=credly&logoColor=white)](http://credly.com/users/bhoomika-goel/badges)
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=bhoomikagoel24&color=7c6dfa&style=flat&label=Profile+Views)
 
 </div>
 
@@ -59,7 +59,7 @@ Agentic AI            →   LangGraph workflows · Multi-agent coordination · L
 | 🔷 | **TriMind AI — RAG Pipeline** | Modular RAG with query rewriting, MMR retrieval, grounding + confidence scoring, and hallucination detection | `LangChain` `Pinecone` `FastAPI` `Gemini API` |
 | 🟡 | **FL-XAI — Parkinson's Prediction** | Federated learning across 5 clients · Adaptive aggregation · SHAP cross-client consistency · **RMSE 4.51 · R² 0.8162** | `Scikit-learn` `SHAP` `Bootstrap CI` `NumPy` |
 | 🟢 | **Sunspot Forecasting** | 9 architectures benchmarked on 250yr SILSO data · CNN+LSTM/GRU hybrids outperformed all baselines | `PyTorch` `TensorFlow` `PyTorch Lightning` |
-| 🔴 | **Agentic Research System** *(building)* | Multi-agent coordination with LangGraph · Planner + retrieval + summarization agents · Cross-document reasoning | `LangGraph` `LangChain` `Pinecone` |
+| 🔴 | **Agentic Research System** *(building)* | Multi-agent coordination · Planner + retrieval + summarization agents · Cross-document reasoning | `LangGraph` `LangChain` `Pinecone` |
 
 <br>
 
@@ -113,3 +113,7 @@ Agentic AI            →   LangGraph workflows · Multi-agent coordination · L
 <sub><i>Building AI systems that are not only intelligent — but measurable, interpretable, and deployable.</i></sub>
 
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6dfa&height=80&section=footer" width="100%"/>
