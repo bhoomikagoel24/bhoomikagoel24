@@ -1,119 +1,117 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/banner.svg)
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/banner.svg" width="100%" alt="Bhoomika Goel, AI/ML Engineer. AI that checks its own work."/>
 
-<br>
+<br/><br/>
 
-**AI/ML Engineer &nbsp;·&nbsp; GenAI Systems &nbsp;·&nbsp; Federated Learning &nbsp;·&nbsp; Explainable AI**
+<a href="https://bhoomika-ai-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-portfolio.svg" height="44" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bhoomikagoel111"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:bhoomikagoel24@gmail.com"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-email.svg" height="44" alt="Email"/></a>
 
-<br>
+<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://bhoomika-ai-portfolio.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhoomikagoel111)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bhoomikagoel24@gmail.com)
-&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/bhoomikagoel24)
-&nbsp;
-[![Credly](https://img.shields.io/badge/Credly_Badges-FF6B00?style=flat&logo=credly&logoColor=white)](http://credly.com/users/bhoomika-goel/badges)
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/metrics.svg" width="100%" alt="RMSE 4.51, R2 0.8162, 3.45 percent lower RMSE than FedAvg, Kendall tau 0.6105, 2 manuscripts submitted"/>
 
 </div>
 
----
+<br/>
 
-## About
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/h-about.svg" width="100%" alt="About"/>
 
-B.Tech CSE · AI Specialization
+<p align="center">
+<b>Bhoomika</b> is a final-year B.Tech Computer Science student (AI specialization) at MIET Meerut, graduating in 2027 with a 9.02 CGPA,<br/>
+and secretary of her college's Microsoft Azure Community.<br/><br/>
+She builds AI systems that <b>check their own work</b>: ARIA critiques its research drafts before delivering them,<br/>
+TriMind scores every answer for grounding, and her federated-learning research tests whether SHAP explanations stay consistent across clients.<br/><br/>
+She is looking for AI/ML Engineer roles in LLM, agentic and RAG systems.
+</p>
 
-I build AI systems that are **reliable, interpretable, and designed for real-world constraints** — not just accurate.
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/now.svg" width="100%" alt="Building ARIA. Researching federated XAI. Looking for AI/ML Engineer roles."/>
 
-My work spans production-style RAG pipelines with grounding evaluation, federated learning frameworks with SHAP-based explainability, and hybrid deep learning architectures for time-series forecasting. I think about evaluation layers, interpretability consistency, and system modularity — not just model metrics.
+<br/><br/>
 
-Currently building an **agentic research system** with multi-agent coordination using LangGraph — moving beyond traditional RAG into autonomous AI workflows.
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/h-projects.svg" width="100%" alt="Featured Projects"/>
 
-<br>
+<p align="center">
+<a href="https://github.com/bhoomikagoel24/agentic-ai-research-system"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/card-aria.svg" width="49%" alt="ARIA, Autonomous Research Agent"/></a>
+&nbsp;
+<!-- TODO: replace this href with the FL-XAI repo link once it is public -->
+<a href="https://github.com/bhoomikagoel24?tab=repositories"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/card-flxai.svg" width="49%" alt="FL-XAI, Parkinson's Severity Prediction"/></a>
+</p>
+<p align="center">
+<a href="https://github.com/bhoomikagoel24/TriMind_RAG_Engine"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/card-trimind.svg" width="49%" alt="TriMind, RAG with an Evaluation Layer"/></a>
+&nbsp;
+<a href="https://github.com/bhoomikagoel24/SolarCycle26_TimeSeriesForecasting"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/card-sunspot.svg" width="49%" alt="Sunspot Forecasting Benchmark"/></a>
+</p>
 
----
+<br/>
 
-## What I Work On
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/h-evidence.svg" width="100%" alt="Claims, Tested"/>
 
-```
-RAG & LLM Systems     →   Query rewriting · MMR retrieval · Grounding & confidence scoring
-Federated Learning    →   Adaptive aggregation · Non-IID simulation · RMSE-based weighting
-Explainable AI        →   SHAP global/local · Kendall Tau consistency · Cross-client analysis
-Deep Learning         →   CNN · LSTM · GRU · BiLSTM · Hybrid architectures · PyTorch Lightning
-Agentic AI            →   LangGraph workflows · Multi-agent coordination · LangChain
-```
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/evidence.svg" width="100%" alt="3.45 percent lower RMSE than FedAvg, Kendall tau 0.6105 for SHAP consistency, TriMind grounding scores from 0.34 to 0.95"/>
 
-<br>
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/claims.svg" width="100%" alt="Table of claims, how each was checked, and the result"/>
 
-## Featured Projects
+<br/><br/>
 
-<br>
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/h-aria.svg" width="100%" alt="Inside ARIA"/>
 
-| | Project | Description | Tech |
-|:---:|:---|:---|:---|
-| 🔷 | **TriMind AI — RAG Pipeline** | Modular RAG with query rewriting, MMR retrieval, grounding + confidence scoring, and hallucination detection | `LangChain` `Pinecone` `FastAPI` `Gemini API` |
-| 🟡 | **FL-XAI — Parkinson's Prediction** | Federated learning across 5 clients · Adaptive aggregation · SHAP cross-client consistency · **RMSE 4.51 · R² 0.8162** | `Scikit-learn` `SHAP` `Bootstrap CI` `NumPy` |
-| 🟢 | **Sunspot Forecasting** | 9 architectures benchmarked on 250yr SILSO data · CNN+LSTM/GRU hybrids outperformed all baselines | `PyTorch` `TensorFlow` `PyTorch Lightning` |
-| 🔴 | **Agentic Research System** *(building)* | Multi-agent coordination · Planner + retrieval + summarization agents · Cross-document reasoning | `LangGraph` `LangChain` `Pinecone` |
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/aria-pipeline.svg" width="100%" alt="ARIA pipeline: Planner, Research, Summarizer, Synthesis, Critic with a retry loop, Formatter"/>
 
-<br>
+<p align="center">
+<a href="https://aria-platform-five.vercel.app/"><b>Live demo</b></a> &nbsp;·&nbsp;
+<a href="https://bhoomikagoel24.github.io/agentic-ai-research-system"><b>Full documentation</b></a> &nbsp;·&nbsp;
+<a href="https://github.com/bhoomikagoel24/agentic-ai-research-system"><b>Source</b></a>
+</p>
 
----
+<br/>
 
-## Tech Stack
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/h-limits.svg" width="100%" alt="Known Limits"/>
 
-**AI & Machine Learning**
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/limits.svg" width="100%" alt="Known limitations: ARIA latency, critic scope, TriMind dense retrieval only"/>
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch_Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-00B4D8?style=flat&logoColor=white)
+<br/><br/>
 
-**Generative AI**
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/h-research.svg" width="100%" alt="Research"/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/research.svg" width="100%" alt="Manuscripts submitted to Scientific Reports and Inteligencia Artificial, 2026"/>
 
-**Backend & Tools**
+<br/><br/>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/h-connect.svg" width="100%" alt="Credentials and Contact"/>
 
-<br>
+<a href="http://credly.com/users/bhoomika-goel/badges"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/credentials.svg" width="100%" alt="AWS AI Practitioner, Oracle Agentic AI, Hugging Face Agents, Cisco"/></a>
 
----
+<p align="center"><sub>Also works with Python · C++ · FastAPI · Docker · Streamlit · AWS · Git</sub></p>
 
-## GitHub Stats
+<p align="center">
+<a href="https://bhoomika-ai-portfolio.vercel.app/"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-portfolio.svg" height="44" alt="Portfolio"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/bhoomikagoel111"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-linkedin.svg" height="44" alt="LinkedIn"/></a>
+&nbsp;
+<a href="mailto:bhoomikagoel24@gmail.com"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-email.svg" height="44" alt="Email"/></a>
+&nbsp;
+<a href="https://x.com/bhoomikagoel24"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-x.svg" height="44" alt="X"/></a>
+&nbsp;
+<a href="http://credly.com/users/bhoomika-goel/badges"><img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/btn-credly.svg" height="44" alt="Credly badges"/></a>
+</p>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/bhoomikagoel24/bhoomikagoel24/main/assets/footer.svg" width="100%" alt="Building AI systems that are measurable, interpretable, and deployable"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=bhoomikagoel24&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&hide=stars&custom_title=GitHub%20Activity" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomikagoel24&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" height="155"/>
+<details>
+<summary><sub>Plain-text summary</sub></summary>
 
-</div>
+**Bhoomika Goel** is a final-year B.Tech CSE (AI) student at MIET Meerut, graduating 2027, open to AI/ML Engineer roles.
 
-<br>
+- **FL-XAI**: federated learning for Parkinson's severity prediction across 5 non-IID clients. RMSE 4.51, R² 0.8162, 3.45% lower RMSE than FedAvg, SHAP feature-ranking consistency Kendall τ = 0.6105, bootstrap and Wilcoxon validation.
+- **ARIA**: multi-agent LangGraph research system with a critique-and-retry loop and 3-tier LLM fallback. [Demo](https://aria-platform-five.vercel.app/)
+- **TriMind**: RAG pipeline with per-query grounding/confidence scoring (0.34 to 0.95 across queries).
+- **Sunspot Forecasting**: 9 deep-learning architectures benchmarked on SILSO data.
+- **Manuscripts (submitted, 2026)**: *Scientific Reports*; *Inteligencia Artificial*.
+- **Certifications**: AWS AI Practitioner, Oracle Agentic AI, Hugging Face Agents, Cisco.
 
----
-
-<div align="center">
-
-<sub><i>Building AI systems that are not only intelligent — but measurable, interpretable, and deployable.</i></sub>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c6dfa&height=80&section=footer" width="100%"/>
+</details>
